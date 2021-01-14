@@ -8,3 +8,7 @@
 [node name="player1" parent="." instance=ExtResource( 1 )]
 position = Vector2( 165, 313 )
 script = ExtResource( 2 )
+
+[node name="player2" parent="." instance=ExtResource( 1 )]
+position = Vector2( 386.193, 314.189 )
+script = ExtResource( 2 )
